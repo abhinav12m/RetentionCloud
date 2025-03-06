@@ -1,9 +1,9 @@
----
 
-### **🚀 RetentionCloud 🤖**
+
+# **🚀 RetentionCloud 🤖**
 **Predict Customer Lifetime Value & Churn using Machine Learning & AWS!**
 
----
+
 
 ## **🧠 Why This Project?**
 Ever wondered how banks and businesses know **which customers to retain** and **which ones are at risk of leaving**? 
